@@ -1,0 +1,149 @@
+/*row1  css is start */
+
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+#row1 {
+    width: 100%;
+    height: 60px;
+    background-color: #2C3F50;
+
+}
+
+.menu {
+    width: 65%;
+
+
+}
+
+.menu img {
+    height: 40px;
+    margin-top: -25px;
+    padding-left: 250px;
+    padding-top: 15px;
+}
+
+.links ul {
+    padding-left: 320px;
+
+
+}
+
+.links ul li {
+    float: left;
+    list-style: none;
+    padding-bottom: 15px;
+}
+
+.links ul li a {
+    color: white;
+    margin-left: 25px;
+    text-decoration: none;
+    text-transform: uppercase;
+   
+
+}
+/*row1  css is end */
+/*row2  css is start */
+
+#row2{
+ background-image:url(https://www.njarchitects.co.uk/wp-content/uploads/2020/04/St-Basils-Cathedral-Moscow-architecture-1030x687.png);
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-repeat: round;
+ height: 500px;
+ width: 100%;
+ position: relative;
+}
+.overlay-row2 {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background: rgba(0, 0, 0, .2);
+}
+.Awesome_part h1{
+    text-transform: uppercase;
+    font-size: 50px;
+    line-height: 70px;
+    padding-top: 170px;
+    text-align: center;
+    color: white;
+}
+.Awesome_part h4{
+    text-align: center;
+    color: white;
+}
+
+/*row2  css is end */
+
+/*row3  css is start */
+
+#row3{
+    width: 100%;
+    height: 370px;
+    background-color: white;
+}
+.head{
+    text-align: center;
+    padding-top: 40px;
+    text-transform: uppercase;
+}
+.icons{
+    width:300px ;
+    float: left;
+    padding-left: 170px;
+    padding-top: 60px;
+    
+}
+.icons i{
+
+}
+.icons h3{
+    text-align: center;
+    font-style: 400;
+    text-transform: uppercase;
+    padding-top: 9px;
+}
+.icons p{
+   
+}
+/*row3  css is end */
+/*row4 css is start */
+
+
+#row4{
+    width: 100%;
+    height: 500px;
+    background-color: brown;
+}
+.head{
+    text-align: center;
+    padding-top: 45px;
+    text-transform: uppercase;
+    
+}
+.icons-2{
+    width: 300px;
+    float: left;
+    padding-left: 170px;
+   padding-top: 30px;
+    
+    
+}
+.icons-2 img{
+height: 150px;
+width:100%;
+}
+.icons-2 h3{
+    text-align: center;
+    font-style: 400;
+    text-transform: uppercase;
+    padding-top: 9px;
+}
+.icons p{
+   
+}
+
+/*row4  css is end */
